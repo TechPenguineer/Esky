@@ -1,0 +1,10 @@
+D:\Desktop\Esky\Esky\bin\Debug\Esky.exe.config
+D:\Desktop\Esky\Esky\bin\Debug\Esky.exe
+D:\Desktop\Esky\Esky\bin\Debug\Esky.pdb
+D:\Desktop\Esky\Esky\obj\Debug\Esky.csproj.AssemblyReference.cache
+D:\Desktop\Esky\Esky\obj\Debug\Esky.Form1.resources
+D:\Desktop\Esky\Esky\obj\Debug\Esky.Properties.Resources.resources
+D:\Desktop\Esky\Esky\obj\Debug\Esky.csproj.GenerateResource.cache
+D:\Desktop\Esky\Esky\obj\Debug\Esky.csproj.CoreCompileInputs.cache
+D:\Desktop\Esky\Esky\obj\Debug\Esky.exe
+D:\Desktop\Esky\Esky\obj\Debug\Esky.pdb

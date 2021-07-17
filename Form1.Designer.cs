@@ -29,18 +29,7 @@ namespace Esky
         /// </summary>
         private void InitializeComponent()
         {
-            this.top_nav = new System.Windows.Forms.Panel();
             this.SuspendLayout();
-            // 
-            // top_nav
-            // 
-            this.top_nav.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.top_nav.AutoSize = true;
-            this.top_nav.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(51)))));
-            this.top_nav.Location = new System.Drawing.Point(-35, -4);
-            this.top_nav.Name = "top_nav";
-            this.top_nav.Size = new System.Drawing.Size(855, 30);
-            this.top_nav.TabIndex = 0;
             // 
             // Form1
             // 
@@ -48,18 +37,16 @@ namespace Esky
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(33)))), ((int)(((byte)(33)))));
             this.ClientSize = new System.Drawing.Size(812, 598);
-            this.Controls.Add(this.top_nav);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Esky";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Panel top_nav;
     }
 }
 
